@@ -41,6 +41,8 @@ YapingZhang, Shan Liang, Shuai Nie, Wenju Liu, Shouye Peng, ["Robust offline han
     ```
 
 3. Run model
+    * Download the pretrain weights from  [Baidu Yun](https://pan.baidu.com/s/15A6SL7JFIQaozUIEhtekxQ) with passwd `u8vz` , to the repo root.
+        
     * Run Baseline:
 
         ```shell
@@ -49,8 +51,8 @@ YapingZhang, Shan Liang, Shuai Nie, Wenju Liu, Shouye Peng, ["Robust offline han
 
     * Run AFL model:
 
-        ```shell
-        python main.py --data_dir ./data
+        ```shell 
+        python main.py --data_dir ./data --pretrain_weights ./pre_weights.hdf5
         ```
 
 
