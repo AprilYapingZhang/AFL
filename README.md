@@ -1,4 +1,4 @@
-# Implementation of "Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition" (CDP)
+# Implementation of "Robust offline handwritten character recognition through exploring writer-independent features under the guidance of printed data" (AFL)
 
 ### Paper
 
@@ -18,8 +18,8 @@ YapingZhang, Shan Liang, Shuai Nie, Wenju Liu, Shouye Peng, ["Robust offline han
 0. Clone the repo.
 
     ```shell
-    git clone git@github.com:XiaohangZhan/cdp.git
-    cd cdp
+    git clone https://github.com/AprilYapingZhang/AFL.git
+    cd AFL
     ```
 
 #### Using ready-made data
@@ -47,7 +47,7 @@ YapingZhang, Shan Liang, Shuai Nie, Wenju Liu, Shouye Peng, ["Robust offline han
         python baseline.py --data_dir ./data
         ```
 
-    *Run AFL model:
+    * Run AFL model:
 
         ```shell
         python main.py --data_dir ./data
