@@ -7,6 +7,7 @@ YapingZhang, Shan Liang, Shuai Nie, Wenju Liu, Shouye Peng, ["Robust offline han
 ### Dependency
 
 * Please use python3, as we cannot guarantee its compatibility with python2.
+* Our code is based on Anaconda.
 * The version of Tensorflow we use is 1.10.1.
 * Other depencencies:
 
