@@ -30,7 +30,9 @@ YapingZhang, Shan Liang, Shuai Nie, Wenju Liu, Shouye Peng, ["Robust offline han
     ```shell
     tar -xf data.tar.gz
     ```
-
+    For the raw  CASIA-HWDB [ http://www.nlpr.ia.ac.cn/databases/handwriting/Application_form.html], built by the CASIA, are released for academic research free of cost under an agreement. 
+    
+   
 2. Make sure the structure looks like the following:
 
     ```shell
@@ -69,3 +71,7 @@ YapingZhang, Shan Liang, Shuai Nie, Wenju Liu, Shouye Peng, ["Robust offline han
   publisher={Elsevier}
 }
 ```
+
+### Acknowledgements
+* This code is built on keras.
+* The authors are grateful that Professor Cheng-lin Liu shared the [CASIA-HWDB databases](http://www.nlpr.ia.ac.cn/databases/handwriting/Application_form.html) for our research. 
