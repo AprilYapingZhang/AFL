@@ -25,7 +25,7 @@ YapingZhang, Shan Liang, Shuai Nie, Wenju Liu, Shouye Peng, ["Robust offline han
 
 #### Using ready-made data
 
-1. Download the prepared data in hdf5 from  [Baidu Yun] , to the repo root, and uncompress it.
+1. Download the prepared data in hdf5 from  [Baidu Yun](https://pan.baidu.com/s/1W16muirZk1-2lYCbIJdiIg) with passwd pf7f  , to the repo root, and uncompress it.
 
    NOTE: For the raw  [CASIA-HWDB]( http://www.nlpr.ia.ac.cn/databases/handwriting/Application_form.html), built by the CASIA, are released for academic research free of cost under an agreement. 
     
